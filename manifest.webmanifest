@@ -1,0 +1,19 @@
+{
+  "name": "ÚtilHub V19 — NOVA FLOW",
+  "short_name": "ÚtilHub",
+  "description": "ÚtilHub V19: herramientas útiles, productividad, conversiones y 20 modos de NOVA FLOW.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050914",
+  "theme_color": "#07111f",
+  "categories": [
+    "utilities",
+    "productivity",
+    "education"
+  ],
+  "prefer_related_applications": false
+}
